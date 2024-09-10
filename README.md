@@ -6,7 +6,18 @@
 <h3 align="center">A frontend developer from the Philippines</h3>
 <!-- <img align="right" alt="GIF" widt="400" src="https://gifdb.com/images/file/animated-programmer-guy-coding-790a0bs8e8thpisg.gif"> -->
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christopherjrcabatbat&show_icons=true&locale=en&theme=dark" alt="christopherjrcabatbat" /></p>
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=christopherjrcabatbat&show_icons=true&locale=en&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=christopherjrcabatbat&show_icons=true&locale=en"
+      alt="christopherjrcabatbat"
+    />
+  </picture>
+</p>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=christopherjrcabatbat&label=Profile%20views&color=0e75b6&style=flat" alt="christopherjrcabatbat" /> </p> -->
 
