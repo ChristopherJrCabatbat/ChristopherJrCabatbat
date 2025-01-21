@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Christopher Jr. Cabatbat</h1>
-<h3 align="center">A frontend developer from the Philippines</h3>
+<h3 align="center">A web developer from the Philippines</h3>
 <!-- <img align="right" alt="GIF" widt="400" src="https://gifdb.com/images/file/animated-programmer-guy-coding-790a0bs8e8thpisg.gif"> -->
 
 <p align="center">
